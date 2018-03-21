@@ -1,0 +1,15 @@
+{
+  "name": "newsletter2go-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sascha Bratton <sascha@brattonbratton.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
