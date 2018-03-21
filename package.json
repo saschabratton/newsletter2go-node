@@ -1,9 +1,13 @@
 {
   "name": "newsletter2go-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Sascha Bratton <sascha@brattonbratton.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saschabratton/newsletter2go-node.git"
+  },
   "dependencies": {
     "axios": "^0.18.0"
   },
